@@ -11,6 +11,7 @@ namespace Sudoku
         static void Main(string[] args)
         {
             SudokuSolverB_DFS sudokuSolverB_DFS = new SudokuSolverB_DFS();
+            SudokuSolver_BFS sudokuSolver_BFS = new SudokuSolver_BFS();
 
             SudokuDifficulty level = SudokuDifficulty.Medium;
             SudokuGenerator sudoku = new SudokuGenerator(level);
@@ -35,6 +36,9 @@ namespace Sudoku
             sudokuSolverB_DFS.Solve(board);            
             sudokuSolverB_DFS.Print(board);
 
+            Console.WriteLine("The solution using BFS is:");
+            sudokuSolver_BFS.SolveUsingBFS(board);
+            sudokuSolver_BFS.Print(board);
         }
     }
 }

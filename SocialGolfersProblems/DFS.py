@@ -38,7 +38,7 @@ def dfs(schedule, round_index, golfers, group_size, rounds, played_with):
     return False
 
 def social_golfer_formatted_output_newline(golfers, group_size):
-    rounds = len(golfers) // group_size
+    rounds = 8
     played_with = {golfer: set() for golfer in golfers}
     schedule = []
 
