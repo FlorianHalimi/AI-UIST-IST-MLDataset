@@ -1,0 +1,7 @@
+C:\Users\Aralytiks\Desktop\Projects\AI\Uninformed_Search_Techniques\NQueens\NQueens\bin\Debug\NQueens.exe.config
+C:\Users\Aralytiks\Desktop\Projects\AI\Uninformed_Search_Techniques\NQueens\NQueens\bin\Debug\NQueens.exe
+C:\Users\Aralytiks\Desktop\Projects\AI\Uninformed_Search_Techniques\NQueens\NQueens\bin\Debug\NQueens.pdb
+C:\Users\Aralytiks\Desktop\Projects\AI\Uninformed_Search_Techniques\NQueens\NQueens\obj\Debug\NQueens.csproj.AssemblyReference.cache
+C:\Users\Aralytiks\Desktop\Projects\AI\Uninformed_Search_Techniques\NQueens\NQueens\obj\Debug\NQueens.csproj.CoreCompileInputs.cache
+C:\Users\Aralytiks\Desktop\Projects\AI\Uninformed_Search_Techniques\NQueens\NQueens\obj\Debug\NQueens.exe
+C:\Users\Aralytiks\Desktop\Projects\AI\Uninformed_Search_Techniques\NQueens\NQueens\obj\Debug\NQueens.pdb
