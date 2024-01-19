@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{27DCC049-A039-4325-97FD-A651F4F75A58}</ProjectGuid>
+    <ProjectGuid>{61FF3067-222A-41AC-8337-65C18BD75E9D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>NQueens</RootNamespace>
     <AssemblyName>NQueens</AssemblyName>
