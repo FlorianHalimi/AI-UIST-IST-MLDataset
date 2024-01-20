@@ -1,0 +1,15 @@
+C:\Users\Blina Smailaj\Documents\AI-UIST-IST-MLDataset\Informed_Search_Technique\SudokuCSP\SudokuCSP\bin\Debug\net7.0\SudokuCSP.exe
+C:\Users\Blina Smailaj\Documents\AI-UIST-IST-MLDataset\Informed_Search_Technique\SudokuCSP\SudokuCSP\bin\Debug\net7.0\SudokuCSP.deps.json
+C:\Users\Blina Smailaj\Documents\AI-UIST-IST-MLDataset\Informed_Search_Technique\SudokuCSP\SudokuCSP\bin\Debug\net7.0\SudokuCSP.runtimeconfig.json
+C:\Users\Blina Smailaj\Documents\AI-UIST-IST-MLDataset\Informed_Search_Technique\SudokuCSP\SudokuCSP\bin\Debug\net7.0\SudokuCSP.dll
+C:\Users\Blina Smailaj\Documents\AI-UIST-IST-MLDataset\Informed_Search_Technique\SudokuCSP\SudokuCSP\bin\Debug\net7.0\SudokuCSP.pdb
+C:\Users\Blina Smailaj\Documents\AI-UIST-IST-MLDataset\Informed_Search_Technique\SudokuCSP\SudokuCSP\obj\Debug\net7.0\SudokuCSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blina Smailaj\Documents\AI-UIST-IST-MLDataset\Informed_Search_Technique\SudokuCSP\SudokuCSP\obj\Debug\net7.0\SudokuCSP.AssemblyInfoInputs.cache
+C:\Users\Blina Smailaj\Documents\AI-UIST-IST-MLDataset\Informed_Search_Technique\SudokuCSP\SudokuCSP\obj\Debug\net7.0\SudokuCSP.AssemblyInfo.cs
+C:\Users\Blina Smailaj\Documents\AI-UIST-IST-MLDataset\Informed_Search_Technique\SudokuCSP\SudokuCSP\obj\Debug\net7.0\SudokuCSP.csproj.CoreCompileInputs.cache
+C:\Users\Blina Smailaj\Documents\AI-UIST-IST-MLDataset\Informed_Search_Technique\SudokuCSP\SudokuCSP\obj\Debug\net7.0\SudokuCSP.sourcelink.json
+C:\Users\Blina Smailaj\Documents\AI-UIST-IST-MLDataset\Informed_Search_Technique\SudokuCSP\SudokuCSP\obj\Debug\net7.0\SudokuCSP.dll
+C:\Users\Blina Smailaj\Documents\AI-UIST-IST-MLDataset\Informed_Search_Technique\SudokuCSP\SudokuCSP\obj\Debug\net7.0\refint\SudokuCSP.dll
+C:\Users\Blina Smailaj\Documents\AI-UIST-IST-MLDataset\Informed_Search_Technique\SudokuCSP\SudokuCSP\obj\Debug\net7.0\SudokuCSP.pdb
+C:\Users\Blina Smailaj\Documents\AI-UIST-IST-MLDataset\Informed_Search_Technique\SudokuCSP\SudokuCSP\obj\Debug\net7.0\SudokuCSP.genruntimeconfig.cache
+C:\Users\Blina Smailaj\Documents\AI-UIST-IST-MLDataset\Informed_Search_Technique\SudokuCSP\SudokuCSP\obj\Debug\net7.0\ref\SudokuCSP.dll

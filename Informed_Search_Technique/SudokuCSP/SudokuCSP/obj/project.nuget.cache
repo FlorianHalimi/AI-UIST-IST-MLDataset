@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "765e6EgfQvou4yEAGsDrpfopDl+2VIVOt9vka1Unfk/K9OX3tFkyVTGloLZJMxQh+lJI22XYmiiB3VeDv+SgNg==",
+  "dgSpecHash": "bgGnEjR/bwmJJZje/nWZEdVW31+dQmM6By2/D7UYw+olApMzxt3ZNdsD/3rjFZE6aVJFei5sLr7Qyujk31npbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\SudokuCSP\\SudokuCSP\\SudokuCSP.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Blina Smailaj\\Documents\\AI-UIST-IST-MLDataset\\Informed_Search_Technique\\SudokuCSP\\SudokuCSP\\SudokuCSP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Blina Smailaj\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Blina Smailaj\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Blina Smailaj\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Blina Smailaj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

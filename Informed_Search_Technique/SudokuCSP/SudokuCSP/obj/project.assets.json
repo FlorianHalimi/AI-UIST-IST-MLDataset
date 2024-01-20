@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Blina Smailaj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\SudokuCSP\\SudokuCSP\\SudokuCSP.csproj",
+      "projectUniqueName": "C:\\Users\\Blina Smailaj\\Documents\\AI-UIST-IST-MLDataset\\Informed_Search_Technique\\SudokuCSP\\SudokuCSP\\SudokuCSP.csproj",
       "projectName": "SudokuCSP",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\SudokuCSP\\SudokuCSP\\SudokuCSP.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\SudokuCSP\\SudokuCSP\\obj\\",
+      "projectPath": "C:\\Users\\Blina Smailaj\\Documents\\AI-UIST-IST-MLDataset\\Informed_Search_Technique\\SudokuCSP\\SudokuCSP\\SudokuCSP.csproj",
+      "packagesPath": "C:\\Users\\Blina Smailaj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Blina Smailaj\\Documents\\AI-UIST-IST-MLDataset\\Informed_Search_Technique\\SudokuCSP\\SudokuCSP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Blina Smailaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,12 +56,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
